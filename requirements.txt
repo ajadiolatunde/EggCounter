@@ -53,7 +53,7 @@ patsy==0.4.1
 pbr==1.8.0
 pexpect==4.0.1
 Pillow==5.4.1
-psutil==3.4.2
+psutil==5.6.6
 ptyprocess==0.5
 py==1.4.31
 pycurl==7.43.0
