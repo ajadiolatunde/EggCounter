@@ -16,7 +16,7 @@ cycler==0.10.0
 dask==1.1.0
 decorator==4.3.2
 Dialogs==0.14
-Django==1.7
+Django==1.11.29
 django-biometrics==1.0
 dlib==19.16.0
 docutils==0.12
