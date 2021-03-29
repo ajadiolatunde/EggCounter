@@ -58,7 +58,7 @@ ptyprocess==0.5
 py==1.4.31
 pycurl==7.43.0
 pyflakes==1.1.0
-Pygments==2.1
+Pygments==2.7.4
 pygobject==3.20.0
 PyHamcrest==1.9.0
 pyinotify==0.9.6
