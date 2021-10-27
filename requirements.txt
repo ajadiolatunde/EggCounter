@@ -13,7 +13,7 @@ cloudpickle==0.7.0
 constantly==15.1.0
 cvxopt==1.1.4
 cycler==0.10.0
-dask==1.1.0
+dask==2021.10.0
 decorator==4.3.2
 Dialogs==0.14
 Django==1.7
