@@ -23,7 +23,7 @@ docutils==0.12
 futures==3.2.0
 GetDist==0.3.0
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 hyperlink==18.0.0
 idna==2.7
 incremental==17.5.0
